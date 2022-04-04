@@ -1,5 +1,5 @@
 Hello there! This file is to test a python program to match different regular expressions.
 It checks for cardinalities like
-4th 14th or seventeenth
+4th 14th or seventeenth 1st 2nd
 but not
 2th 3th
