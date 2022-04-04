@@ -1,0 +1,5 @@
+Hello there! This file is to test a python program to match different regular expressions.
+It also checks for four letter words that begin with a vowel like
+Ally or axes
+but not
+owner or ann
